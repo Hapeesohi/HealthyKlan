@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121004860052",
+    "project_id": "healthyklan-7b444",
+    "storage_bucket": "healthyklan-7b444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121004860052:android:423710b9426ae966140a81",
+        "android_client_info": {
+          "package_name": "com.example.healthyklan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121004860052-diqgp015grf4rius1m1037ceo9pmgb8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTysMP0E5p8izwINfr5O4quanb0hoc44Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121004860052-diqgp015grf4rius1m1037ceo9pmgb8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
