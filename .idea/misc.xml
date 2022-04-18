@@ -1,9 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/bg_activity_level.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/bg_activity_selected.xml" value="0.234" />
+        <entry key="app/src/main/res/drawable/bg_card_layout.xml" value="0.1075" />
+        <entry key="app/src/main/res/drawable/bg_circle.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/bg_facebook_btn.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/bg_google_btn.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/bg_login.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/bg_login_edittext.xml" value="0.1845" />
+        <entry key="app/src/main/res/drawable/bg_login_login_btn.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/bg_onboard_activity_not_selected.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/bg_onboard_activity_selected.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/bg_onboard_goal_not_selected.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/bg_onboard_goal_selected.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/bg_signup_edittext.xml" value="0.1845" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_diary.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.106" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_name_signup.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_nutrition.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/login_bg.xml" value="0.199" />
+        <entry key="app/src/main/res/drawable/login_center_bg.xml" value="0.199" />
+        <entry key="app/src/main/res/drawable/login_edittext_bg.xml" value="0.199" />
+        <entry key="app/src/main/res/drawable/login_login_btn_bg.xml" value="0.1845" />
+        <entry key="app/src/main/res/drawable/serachbar.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/tab_indicator.xml" value="0.1845" />
+        <entry key="app/src/main/res/layout/activity_add_meal.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_drink_water.xml" value="0.20075400565504242" />
+        <entry key="app/src/main/res/layout/activity_fasting.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/layout/activity_login_sign_up.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30092592592592593" />
+        <entry key="app/src/main/res/layout/activity_nutrition.xml" value="0.19844207763671884" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/layout/activity_sleep_tracker.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/activity_step_count.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_survey.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_weight_tracker.xml" value="0.19010416666666666" />
+        <entry key="app/src/main/res/layout/activity_workout.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/app_bar_home.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/content_home.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/diary_row.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_activity_level.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_brows_all.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_calories.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_diary.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_gender_age.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_goals.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_height_weight.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2490740740740741" />
+        <entry key="app/src/main/res/layout/fragment_macros.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_most_used.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_my_excercise.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_my_meal.xml" value="0.21077880859375003" />
+        <entry key="app/src/main/res/layout/fragment_nutrition.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_nutrition_diary.xml" value="0.21052631578947367" />
+        <entry key="app/src/main/res/layout/fragment_search_meal.xml" value="0.12861572265625001" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_weight_goal.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_workout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_workout_diary.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/layout_dialog_notes.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/meal_item.xml" value="0.2480553410888285" />
+        <entry key="app/src/main/res/layout/nav_header_home.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/navheader.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/iconmenu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.106" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3098958333333333" />
+      </ProjectState>
+    </option>
   </component>
 </project>

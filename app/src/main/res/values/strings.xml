@@ -1,3 +1,142 @@
 <resources>
     <string name="app_name">HealthyKlan</string>
+    <string name="logo_desc">AppLogo</string>
+
+
+    <!-- Onboard screen text values -->
+
+    <!-- First Screen text values -->
+    <string name="text_about_goals">Let us start with goals!</string>
+    <string name="text_select_three">Select any three main goals.</string>
+    <string name="text_goal_one">Lose Weight</string>
+    <string name="text_goal_two">Weight Maintenance</string>
+    <string name="text_goal_three">Weight Gain</string>
+    <string name="text_goal_four">Sleep Monitoring</string>
+    <string name="text_goal_five">Diet Modification</string>
+    <string name="text_goal_six">Stress Management</string>
+    <string name="text_goal_seven">Increase Step Count</string>
+
+
+    <!-- Second Screen -->
+    <string name="text_already_user">Already a user!</string>
+    <string name="text_activity_level">Tell us about your daily activity level</string>
+    <string name="text_activity_level_one">Not Very Active</string>
+    <string name="text_activity_level_one_explain">Glued to chair most of the time</string>
+    <string name="text_activity_level_two">Moderately Active</string>
+    <string name="text_activity_level_two_explain">Yeah! I get the opportunity to walk a bit</string>
+    <string name="text_activity_level_three">Active</string>
+    <string name="text_activity_level_three_explain">Have to do some physical activity.</string>
+    <string name="text_activity_level_four">Very Active</string>
+    <string name="text_activity_level_four_explain">Spend good part of my day doing heavy physical activity.</string>
+    <string name="text_next_button">NEXT</string>
+
+    <!-- THird screen -->
+    <string name="text_choose_gender">Please select your gender:</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_age">How old are you?</string>
+    <string name="text_age_hint">Age</string>
+    <string name="text_reason">We use these to calculate your calories goal.</string>
+
+    <!-- Fourth Screen -->
+    <string name="text_give_height_weight">Some more info please!</string>
+    <string name="text_weight">Weight(kg)</string>
+    <string name="text_in_kg">kg</string>
+    <string name="text_in_pound">lb</string>
+    <string name="text_height">Height(cm)</string>
+    <string name="text_in_cm">cm</string>
+    <string name="text_in_feet">feet</string>
+    <string name="text_weight_goal">Weight Goal</string>
+    <string name="text_btn_finish">Finish</string>
+    <string name="text_error">Enter valid number</string>
+
+
+    <!-- Login Activity and SignUp Activity .xml string values -->
+    <string name="text_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_signup">SignUp</string>
+    <string name="text_login_create_account">New to the Klan? SignUp here!</string>
+    <string name="text_google">GOOGLE</string>
+    <string name="text_facebook">FACEBOOK</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer -->
+    <string name="user_name">User Name</string>
+    <string name="nav_open">OPEN</string>
+    <string name="nav_close">CLOSE</string>
+    <string name="text_title_home">HOME</string>
+    <string name="text_title_diary">DIARY</string>
+    <string name="text_title_nutri">NUTRITION</string>
+    <string name="text_title_workout">WORKOUT</string>
+    <string name="text_title_account">ACCOUNT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Home page fragement strings -->
+
+    <string name="text_nutrition">Nutritions</string>
+    <string name="text_need_calories">You need more calorie</string>
+    <string name="text_workout">Workout</string>
+    <string name="text_burn_calories">You need to burn more calorie</string>
+    <string name="text_track_sleep">Track Sleep</string>
+    <string name="text_set_sleep_goal">Set sleep goals</string>
+    <string name="text_drink_water">Drink 11 Glass of water</string>
+    <string name="text_target">Target</string>
+    <string name="text_lost">Lost</string>
+    <string name="text_track_steps">Track your steps</string>
+    <string name="text_fast_time">Fasting Time</string>
+    <string name="text_note">Note</string>
+
+    <!-- Workout Fragment string values -->
+    <string name="text_most_used">Most Used</string>
+    <string name="text_my_excercise">My Excercise</string>
+    <string name="text_browse_all">Browse All</string>
+
+    <!-- Diary Fragment string values -->
+    <string name="text_calories">Calories</string>
+    <string name="text_macros">Macros</string>
+
+    <!-- NUtrition Activity String values -->
+    <string name="daily_budget">My daily calories budget</string>
+    <string name="text_breakfast">Breakfast</string>
+    <string name="text_lunch">Lunch</string>
+    <string name="text_dinner">Dinner</string>
+    <string name="text_snacks">Snacks</string>
+    <string name="text_calories_detail">Calories Detail</string>
+    <string name="text_reminder">Reminder</string>
+    <string name="text_set">Set</string>
+    <string name="title_activity_add_food">AddFoodActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- string values for meal addition -->
+    <string name="text_meal">Meal</string>
+    <string name="text_total">Total</string>
+    <string name="text_goal">Goal</string>
+    <string name="text_zero_per">0%</string>
+    <string name="text_four_cal">400 cals</string>
+    <string name="text_four_gm">40 gm</string>
+    <string name="text_carbs">Carbs</string>
+    <string name="text_fat">Fat</string>
+    <string name="text_fiber">Fiber</string>
+    <string name="text_protein">Protein</string>
+
+    <!-- string values for meal activity-->
+    <string name="text_my_meal">My Meal</string>
+    <string name="text_search">Search</string>
+
+
+
+
 </resources>

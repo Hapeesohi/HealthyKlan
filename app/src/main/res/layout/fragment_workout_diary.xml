@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_dark"
+    tools:context=".Diary.WorkoutDiaryFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewDiaryWorkout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:padding="10dp"
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/workoutDiaryAdd"
+        android:layout_width="match_parent"
+        android:layout_gravity="right"
+        android:layout_margin="30dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add"
+        />
+
+
+
+</LinearLayout>

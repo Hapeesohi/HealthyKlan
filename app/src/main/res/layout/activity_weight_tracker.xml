@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green_dark"
+    android:orientation="vertical"
+    tools:context=".HelperActivities.WeightTrackerActivity">
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Current Weight"
+        android:textColor="@color/yellow"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/tvCurrent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/orange"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:inputType="number"
+        android:maxLength="3"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:hint="Enter Weight"
+        android:textColorHint="@color/yellow"
+        android:layout_margin="10dp"
+        />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Goal"
+        android:textColor="@color/yellow"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/tvGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/orange"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:inputType="number"
+        android:maxLength="3"
+        android:textStyle="bold"
+        android:hint="Enter Weight "
+        android:textColorHint="@color/yellow"
+        android:layout_margin="10dp"
+        />
+
+    <TextView
+        android:id="@+id/tvWayToGo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/orange"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:text="Way to go"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColorHint="@color/yellow"
+        android:layout_margin="10dp"
+        />
+
+    <TextView
+        android:id="@+id/tvSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/orange"
+        android:padding="10dp"
+        android:background="@color/green_light"
+        android:textSize="20sp"
+        android:text="Save"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColorHint="@color/yellow"
+        android:layout_margin="10dp"
+        />
+
+
+
+
+
+</LinearLayout>

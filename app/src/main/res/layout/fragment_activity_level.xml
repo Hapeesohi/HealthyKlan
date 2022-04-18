@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="20dp"
+    android:background="@color/green_dark"
+    tools:context=".onboarding.screen.ActivityLevelScreen">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/text_activity_level"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/yellow"
+        />
+
+    <LinearLayout
+        android:id="@+id/llActivityOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_onboard_activity_not_selected"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_activity_level_one"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/text_activity_level_one_explain"
+            android:textColor="@color/green_light"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llActivityTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_onboard_activity_not_selected"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_activity_level_two"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/text_activity_level_two_explain"
+            android:textColor="@color/green_light"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llActivityThree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_onboard_activity_not_selected"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_activity_level_three"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/text_activity_level_three_explain"
+            android:textColor="@color/green_light"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llActivityFour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_onboard_activity_not_selected"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_activity_level_four"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/text_activity_level_four_explain"
+            android:textColor="@color/green_light"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        >
+        <TextView
+            android:id="@+id/tvActivityNextGenderAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_next_button"
+            android:textColor="@color/orange_light"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:gravity="end"
+            android:padding="15dp"
+            android:layout_margin="10dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
